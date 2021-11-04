@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Birthday Greet</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="create_birthday_card">CREATE BIRTHDAY CARD</string>
+    <string name="hint_Input">Nikhil</string>
+    <string name="birthday_msg">Wishing you a day filled with happiness and a year filled with joy.</string>
+    <string name="msg">Happy Birthday</string>
+    <string name="created_by">App created by Nikhil Sharma</string>
+</resources>
