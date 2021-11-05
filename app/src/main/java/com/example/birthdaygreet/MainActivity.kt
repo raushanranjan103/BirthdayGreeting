@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
 
 
         val name = inputMessage.editableText.toString()
-        Toast.makeText(this, "Hi! $name, Nikhil has created a Birthday Card for you. Hope you will like it :)", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Hi! $name, Raushan Ranjan has created a Birthday Card for you. Hope you will like it :)", Toast.LENGTH_LONG).show()
         val intent = Intent(this, BirthdayGreetingActivity::class.java)
         intent.putExtra(BirthdayGreetingActivity.NAME_EXTRA, name)
         startActivity(intent)
